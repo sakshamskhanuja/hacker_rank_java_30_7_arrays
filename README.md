@@ -6,7 +6,8 @@ Today, we will learn about the Array data structure.
 
 ### Task
 
-Given an array, <i>A</i>, of <i>N</i> integers, print <i>A</i>'s elements in reverse order as a single line of space-separated numbers.
+Given an array, <i>A</i>, of <i>N</i> integers, print <i>A</i>'s elements in reverse order as a single line of
+space-separated numbers.
 
 ### Example
 
